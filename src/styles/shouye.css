@@ -1,0 +1,827 @@
+header {
+  width: 1356px;
+  height: 30px;
+  background: #141415;
+}
+header > .innotification {
+  width: 1280px;
+  height: 100%;
+  background: #141415;
+  line-height: 30px;
+  margin: 0 auto;
+}
+header > .innotification > .trumpet {
+  width: 30px;
+  height: 30px;
+  background: url(../../img/ico-comm.png) 3px 211px;
+  float: left;
+  margin-left: 7px;
+}
+header > .innotification > span {
+  font-size: 14px;
+  color: #a7a7a7;
+  margin-left: 7px;
+}
+header > .innotification > span a {
+  color: #a7a7a7;
+}
+.title {
+  width: 1356px;
+  height: 99px;
+  background: #0e0e0f;
+  border-bottom: 1px solid #222222;
+}
+.title .intitle {
+  width: 1280px;
+  height: 100%;
+  background: #0e0e0f;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+.title .intitle .logo1 {
+  width: 160px;
+  height: 57px;
+  text-indent: -999px;
+  background: url(../../img/ico-comm.png) -167px -188px;
+  float: left;
+  margin-top: 17px;
+}
+.title .intitle .logo2 {
+  width: 138px;
+  height: 39px;
+  background: url(../../img/logo-yxzj.png) -7px -7px;
+  float: left;
+  margin-left: 51px;
+  margin-top: 25px;
+}
+.title .intitle .outinput {
+  width: 240px;
+  height: 40px;
+  border-radius: 20px;
+  background: #242424;
+  float: right;
+  position: relative;
+  margin-right: 256px;
+  margin-top: 39px;
+}
+.title .intitle .outinput .glass {
+  width: 16px;
+  height: 16px;
+  background: url(../../img/ico-comm.png) -80px -3px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-left: 7px;
+}
+.title .intitle .outinput .input {
+  width: 206px;
+  height: 19px;
+  border: transparent;
+  background: #242424;
+  color: white;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-left: 28px;
+}
+.title .intitle ul {
+  width: 194px;
+  height: 22px;
+  background: #0e0e0f;
+  float: right;
+  position: absolute;
+  top: 49px;
+  right: 0px;
+}
+.title .intitle ul li {
+  width: 97px;
+  height: 100%;
+  line-height: 22px;
+  background: #0e0e0f;
+  float: left;
+}
+.title .intitle ul li a {
+  font-size: 12px;
+}
+.title .intitle ul li div {
+  width: 21px;
+  height: 21px;
+  float: left;
+}
+.title .intitle ul li .entericon {
+  background: url(../../img/ico-comm.png) 0px -279px;
+}
+.title .intitle ul li .a2 {
+  float: right;
+}
+.title .intitle ul li .shopcaricon {
+  background: url(../../img/ico-comm.png) -3px -65px;
+  margin-left: 29px;
+}
+.title .intitle ul li a {
+  color: #f6f7ef;
+  margin-left: 9px;
+}
+nav {
+  width: 1356px;
+  height: 56px;
+  background: #0e0e0f;
+}
+nav .innav {
+  width: 1280px;
+  height: 100%;
+  margin: 0px auto;
+}
+nav .innav ul {
+  width: 774px;
+  height: 100%;
+  float: left;
+}
+nav .innav ul li {
+  width: 129px;
+  font-size: 16px;
+  color: #a6a6a6;
+  text-align: center;
+  line-height: 56px;
+  float: left;
+}
+nav .innav ul li:hover {
+  color: white;
+  background: url(../../img/ico-comm.png) -28px -92px;
+}
+nav .innav .goodscategory {
+  width: 118px;
+  height: 16px;
+  color: #ffffff;
+  float: right;
+  margin-top: 20px;
+}
+nav .innav .goodscategory span {
+  font-size: 16px;
+}
+nav .innav .goodscategory div {
+  width: 10px;
+  height: 12px;
+  background: url(../../img/ico-comm.png) -100px -3px;
+  float: right;
+  margin-top: 2px;
+}
+nav .innav .goodscategory:hover div {
+  background: url(../../img/ico-comm.png) -66px -3px;
+}
+.banner {
+  width: 1356px;
+  height: 368px;
+  background: url(../../img/20200423095915_312444.jpg);
+  background-size: 100% 100%;
+}
+main {
+  width: 1356px;
+  height: 2945px;
+  background: #f5f5f5;
+  position: relative;
+  margin: 0 auto;
+}
+main .inmain {
+  width: 1282px;
+  height: 2935px;
+  border-radius: 7px;
+  background: #ffffff;
+  position: absolute;
+  top: -30px;
+  margin-left: 37px;
+}
+main .inmain .ininmain {
+  width: 1180px;
+  height: 2832px;
+  background: #ffffff;
+  margin: 53px auto;
+}
+main .inmain .ininmain .title1 {
+  width: 100%;
+  height: 50px;
+  background: #ffffff;
+  overflow: hidden;
+}
+main .inmain .ininmain .title1 h2 {
+  font-size: 28px;
+  float: left;
+  margin-top: -3px;
+}
+main .inmain .ininmain .title1 .zhengpin {
+  display: inline-block;
+  margin-left: 32px;
+  margin-top: 13px;
+}
+main .inmain .ininmain .title1 a {
+  width: 57px;
+  height: 20px;
+  font-size: 15px;
+  margin-top: 2px;
+  line-height: 20px;
+  float: right;
+}
+main .inmain .ininmain .title1 a div {
+  width: 20px;
+  height: 20px;
+  background: url(../../img/ico-comm.png) -42px -2px;
+  float: right;
+}
+main .inmain .ininmain .littlebanner {
+  width: 100%;
+  height: 240px;
+  background: url(../../img/20200423100257_669181.jpg);
+}
+main .inmain .ininmain .imgs {
+  width: 100%;
+  height: 356px;
+  margin-top: 20px;
+  position: relative;
+}
+main .inmain .ininmain .imgs li {
+  width: 281px;
+  height: 100%;
+  border: 1px #eeeeee solid;
+  text-align: center;
+  float: left;
+  position: relative;
+  transition: 0.3s;
+  margin-right: 16px;
+}
+main .inmain .ininmain .imgs li img {
+  width: 100%;
+  height: 269px;
+}
+main .inmain .ininmain .imgs li p {
+  font-size: 14px;
+  margin-top: 21px;
+}
+main .inmain .ininmain .imgs li span {
+  font-size: 12px;
+  color: #f7545f;
+  display: inline-block;
+  margin-top: 9px;
+}
+main .inmain .ininmain .imgs .li4 {
+  margin-right: 0;
+}
+main .inmain .ininmain .imgs li:hover {
+  transform: translateY(-1px);
+  box-shadow: 1px 1px 20px 1px #726f6f;
+}
+main .inmain .ininmain .title2 {
+  width: 100%;
+  height: 50px;
+  background: #ffffff;
+  overflow: hidden;
+  margin-top: 51px;
+}
+main .inmain .ininmain .title2 h3 {
+  font-size: 28px;
+  float: left;
+  margin-top: -3px;
+}
+main .inmain .ininmain .title2 .wangzhe {
+  display: inline-block;
+  margin-left: 32px;
+  margin-top: 13px;
+}
+main .inmain .ininmain .title2 .a2 {
+  width: 57px;
+  height: 20px;
+  font-size: 15px;
+  margin-top: 2px;
+  line-height: 20px;
+  float: right;
+}
+main .inmain .ininmain .title2 .a2 div {
+  width: 20px;
+  height: 20px;
+  background: url(../../img/ico-comm.png) -42px -2px;
+  float: right;
+}
+main .inmain .ininmain .littlebanner2 {
+  width: 100%;
+  height: 240px;
+  background: url(../../img/20200423100234_330538.jpg);
+}
+main .inmain .ininmain .imgs2 {
+  width: 100%;
+  height: 356px;
+  margin-top: 20px;
+  position: relative;
+}
+main .inmain .ininmain .imgs2 li {
+  width: 281px;
+  height: 100%;
+  border: 1px #eeeeee solid;
+  text-align: center;
+  float: left;
+  position: relative;
+  transition: 0.3s;
+  margin-right: 16px;
+}
+main .inmain .ininmain .imgs2 li img {
+  width: 100%;
+  height: 269px;
+}
+main .inmain .ininmain .imgs2 li p {
+  font-size: 14px;
+  margin-top: 21px;
+}
+main .inmain .ininmain .imgs2 li span {
+  font-size: 12px;
+  color: #f7545f;
+  display: inline-block;
+  margin-top: 9px;
+}
+main .inmain .ininmain .imgs2 .li4 {
+  margin-right: 0;
+}
+main .inmain .ininmain .imgs2 li:hover {
+  transform: translateY(-1px);
+  box-shadow: 1px 1px 20px 1px #726f6f;
+}
+main .inmain .ininmain .title3 {
+  width: 100%;
+  height: 50px;
+  background: #ffffff;
+  overflow: hidden;
+  margin-top: 51px;
+}
+main .inmain .ininmain .title3 h4 {
+  font-size: 28px;
+  float: left;
+  margin-top: -3px;
+}
+main .inmain .ininmain .title3 .wangzhe {
+  display: inline-block;
+  margin-left: 32px;
+  margin-top: 13px;
+}
+main .inmain .ininmain .title3 .a2 {
+  width: 57px;
+  height: 20px;
+  font-size: 15px;
+  margin-top: 2px;
+  line-height: 20px;
+  float: right;
+}
+main .inmain .ininmain .title3 .a2 div {
+  width: 20px;
+  height: 20px;
+  background: url(../../img/ico-comm.png) -42px -2px;
+  float: right;
+}
+main .inmain .ininmain .littlebanner3 {
+  width: 100%;
+  height: 240px;
+  background: url(../../img/20200423100332_831077.jpg);
+}
+main .inmain .ininmain .imgs3 {
+  width: 100%;
+  height: 356px;
+  margin-top: 20px;
+  position: relative;
+}
+main .inmain .ininmain .imgs3 li {
+  width: 281px;
+  height: 100%;
+  border: 1px #eeeeee solid;
+  text-align: center;
+  float: left;
+  position: relative;
+  transition: 0.3s;
+  margin-right: 16px;
+}
+main .inmain .ininmain .imgs3 li img {
+  width: 100%;
+  height: 269px;
+}
+main .inmain .ininmain .imgs3 li p {
+  font-size: 14px;
+  margin-top: 21px;
+}
+main .inmain .ininmain .imgs3 li span {
+  font-size: 12px;
+  color: #f7545f;
+  display: inline-block;
+  margin-top: 9px;
+}
+main .inmain .ininmain .imgs3 .li4 {
+  margin-right: 0;
+}
+main .inmain .ininmain .imgs3 li:hover {
+  transform: translateY(-1px);
+  box-shadow: 1px 1px 20px 1px #726f6f;
+}
+main .inmain .ininmain .title4 {
+  width: 100%;
+  height: 50px;
+  background: #ffffff;
+  overflow: hidden;
+  margin-top: 51px;
+}
+main .inmain .ininmain .title4 h5 {
+  font-size: 28px;
+  float: left;
+  margin-top: -3px;
+}
+main .inmain .ininmain .title4 .wangzhe {
+  display: inline-block;
+  margin-left: 32px;
+  margin-top: 13px;
+}
+main .inmain .ininmain .title4 .a2 {
+  width: 57px;
+  height: 20px;
+  font-size: 15px;
+  margin-top: 2px;
+  line-height: 20px;
+  float: right;
+}
+main .inmain .ininmain .title4 .a2 div {
+  width: 20px;
+  height: 20px;
+  background: url(../../img/ico-comm.png) -42px -2px;
+  float: right;
+}
+main .inmain .ininmain .littlebanner4 {
+  width: 100%;
+  height: 240px;
+  background: url(../../img/20200423100246_425288.jpg);
+}
+main .inmain .ininmain .imgs4 {
+  width: 100%;
+  height: 356px;
+  margin-top: 20px;
+  position: relative;
+}
+main .inmain .ininmain .imgs4 li {
+  width: 281px;
+  height: 100%;
+  border: 1px #eeeeee solid;
+  text-align: center;
+  float: left;
+  position: relative;
+  transition: 0.3s;
+  margin-right: 16px;
+}
+main .inmain .ininmain .imgs4 li img {
+  width: 100%;
+  height: 269px;
+}
+main .inmain .ininmain .imgs4 li p {
+  font-size: 14px;
+  margin-top: 21px;
+}
+main .inmain .ininmain .imgs4 li span {
+  font-size: 12px;
+  color: #f7545f;
+  display: inline-block;
+  margin-top: 9px;
+}
+main .inmain .ininmain .imgs4 .li4 {
+  margin-right: 0;
+}
+main .inmain .ininmain .imgs4 li:hover {
+  transform: translateY(-1px);
+  box-shadow: 1px 1px 20px 1px #726f6f;
+}
+footer {
+  width: 1356px;
+  height: 463px;
+  background: #1b1b1b;
+  overflow: hidden;
+}
+footer .topfooter {
+  width: 100%;
+  height: 152px;
+  background: #1b1b1b;
+  margin-top: 40px;
+}
+footer .topfooter .left {
+  width: 322px;
+  height: 100%;
+  background: #1b1b1b;
+  float: left;
+}
+footer .topfooter .left img {
+  margin-left: 87px;
+}
+footer .topfooter .left .line1 {
+  width: 1px;
+  height: 135px;
+  background: #606060;
+  float: right;
+  margin-top: 10px;
+}
+footer .topfooter .center {
+  width: 396px;
+  height: 100%;
+  background: #1b1b1b;
+  float: left;
+}
+footer .topfooter .center ul {
+  width: 292px;
+  height: 139px;
+  background: #1b1b1b;
+  float: left;
+  margin-top: 13px;
+  margin-left: 38px;
+}
+footer .topfooter .center ul li {
+  width: 95px;
+  height: 24px;
+  background: #1b1b1b;
+  line-height: 24px;
+  float: left;
+  margin-bottom: 33px;
+  margin-right: 102px;
+}
+footer .topfooter .center ul li div {
+  width: 30px;
+  height: 24px;
+  background: darkcyan;
+  float: left;
+}
+footer .topfooter .center ul li span {
+  font-size: 14px;
+  color: #a8a8a8;
+  margin-left: 9px;
+}
+footer .topfooter .center ul .li2,
+footer .topfooter .center ul .li4 {
+  margin-right: 0;
+}
+footer .topfooter .center ul .li1 div {
+  background: url(../../img/comm-top.png) 0 -64px;
+}
+footer .topfooter .center ul .li2 div {
+  background: url(../../img/comm-top.png) -90px -64px;
+}
+footer .topfooter .center ul .li3 div {
+  background: url(../../img/comm-top.png) -30px -64px;
+}
+footer .topfooter .center ul .li4 div {
+  background: url(../../img/comm-top.png) -60px -64px;
+}
+footer .topfooter .center ul .li5 div {
+  background: url(../../img/comm-top.png) -120px -64px;
+}
+footer .topfooter .center ul li:hover span {
+  color: white;
+}
+footer .topfooter .center .line2 {
+  width: 1px;
+  height: 135px;
+  background: #606060;
+  float: right;
+  margin-top: 10px;
+}
+footer .topfooter .right {
+  width: 638px;
+  height: 100%;
+  background: #1b1b1b;
+  float: left;
+}
+footer .topfooter .right li {
+  width: 100px;
+  height: 100%;
+  background: #1b1b1b;
+  text-align: center;
+  float: left;
+  margin-left: 85px;
+}
+footer .topfooter .right li img {
+  width: 100%;
+  margin-top: 10px;
+}
+footer .topfooter .right li span {
+  font-size: 16px;
+  color: #ffffff;
+  display: inline-block;
+  margin-top: 28px;
+}
+.centerline {
+  width: 1280px;
+  height: 1px;
+  background: #606060;
+  margin: 43px auto;
+}
+.bottomfooter > ul {
+  width: auto;
+  height: 13px;
+  background: #1b1b1b;
+  margin: 37px 220px;
+  margin-bottom: 0px;
+}
+.bottomfooter > ul li {
+  border-right: 1px solid #777777;
+  float: left;
+  padding: 0 5px;
+}
+.bottomfooter > ul li a {
+  color: #777777;
+  font-size: 11px;
+}
+.bottomfooter > ul .lilast {
+  border: none;
+}
+.bottomfooter > ul li:hover a {
+  color: white;
+}
+.yuewangwen {
+  text-align: center;
+  color: #777777;
+  font-size: 11px;
+  margin-top: 13px;
+}
+.yuewangwen a {
+  color: #777777;
+}
+.yuewangwen a:hover {
+  color: white;
+}
+.copy {
+  text-align: center;
+  color: #777777;
+  font-size: 11px;
+  margin-top: 13px;
+}
+.tengxun {
+  text-align: center;
+  color: #777777;
+  font-size: 11px;
+  margin-top: 13px;
+}
+.tengxun a {
+  color: #777777;
+}
+.tengxun a:hover {
+  color: white;
+}
+.gongshang {
+  text-align: center;
+  color: #777777;
+  font-size: 11px;
+  margin-top: 53px;
+}
+.gongshang img {
+  vertical-align: middle;
+}
+.gongshang span {
+  display: inline-block;
+  vertical-align: middle;
+}
+.gongshang a {
+  color: #777777;
+}
+.gongshang a:hover {
+  color: white;
+}
+.main2 {
+  width: 622px;
+  height: 495px;
+  background: #ffffff;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: none;
+}
+.main2 .QQ {
+  width: 311px;
+  height: 50px;
+  background: #31a4f6;
+  float: left;
+}
+.main2 .QQ .icon {
+  width: 19px;
+  height: 23px;
+  background: url(../../img/dengluyeimgs/图层\ 2.png);
+  float: left;
+  vertical-align: middle;
+  margin-left: 95px;
+  margin-top: 11px;
+}
+.main2 .QQ span {
+  font-size: 16px;
+  color: #ffffff;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 8px;
+}
+.main2 .weixin {
+  width: 311px;
+  height: 50px;
+  background: #f1f1f1;
+  float: left;
+}
+.main2 .weixin .icon {
+  width: 23px;
+  height: 22px;
+  background: url(../../img/dengluyeimgs/weixin.png);
+  float: left;
+  margin-left: 95px;
+  margin-top: 11px;
+}
+.main2 .weixin span {
+  font-size: 16px;
+  color: #b1b1b1;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 8px;
+}
+.main2 .weixin .ina {
+  float: right;
+}
+.main2 .weixin .guanbi {
+  width: 47px;
+  height: 26px;
+  border-left: 1px solid #acacac;
+  background: url(../../img/dengluyeimgs/guangbi.png) 18px 9px no-repeat;
+  float: right;
+}
+.top {
+  width: 100%;
+  font-size: 12px;
+  color: #a2a2a2;
+  text-align: center;
+  margin-top: 66px;
+}
+.gaozhi {
+  width: 245px;
+  height: 57px;
+  background: #ffffff;
+  margin: 0px auto;
+  margin-top: 68px;
+}
+.gaozhi .p1 {
+  font-size: 19px;
+  color: #333333;
+  margin-left: 69px;
+}
+.gaozhi .p2 {
+  font-size: 16px;
+  margin-left: 2px;
+  margin-top: 16px;
+}
+.gaozhi .p2 a {
+  color: #3481cf;
+}
+.usename {
+  width: 268px;
+  height: 38px;
+  border: 1px solid #d6d6d6;
+  margin-left: 177px;
+  margin-top: 39px;
+}
+.password {
+  width: 268px;
+  height: 38px;
+  border: 1px solid #d6d6d6;
+  display: block;
+  margin-left: 177px;
+  margin-top: 15px;
+}
+.sbmit {
+  width: 268px;
+  height: 38px;
+  background: #86ce2f;
+  text-align: center;
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 38px;
+  margin-left: 177px;
+  margin-top: 15px;
+}
+.xiamian {
+  width: 100%;
+  margin-top: 78px;
+}
+.xiamian a:hover {
+  text-decoration-line: underline;
+}
+.xiamian li {
+  border-right: 2px solid #cbcbcb;
+  font-size: 12;
+  color: #666666;
+  float: right;
+  padding: 0 9px;
+}
+.xiamian .li1 {
+  border: none;
+}
